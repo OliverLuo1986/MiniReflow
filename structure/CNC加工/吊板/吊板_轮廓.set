@@ -1,0 +1,10 @@
+(
+_n”)
+( PROGRAM NUMBER=0001 )
+( MACHINE=MILL TUTORIAL )
+( CONTROLLER=FANUC TYPE )
+( MATERIAL=6061-T6 )
+( THICKNESS=25.4 )
+( STATION  TOOL TYPE  DIAMETER  CORNER RADIUS  DESCRIPTION               )
+( -------  ---------  --------  -------------  -------------------- )
+(  015     ENDMILL      002.00                            2MM U„       )
